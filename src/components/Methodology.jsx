@@ -116,7 +116,7 @@ export default function Methodology() {
             </p>
             <div className="flex flex-wrap gap-3">
               <a
-                href="https://www.linkedin.com/in/michael-john-du-plessis/"
+                href="https://www.linkedin.com/in/michael-john-du-plessis-199924b8/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white text-sm px-4 py-2 rounded-lg transition-colors"

@@ -33,6 +33,13 @@ lerna-debug.log*
 .DS_Store
 Thumbs.db
 
+# Personal documents (contain PII)
+cv-*.html
+supplementary-brief.html
+
+# IDE context
+.cursor/
+
 # Python
 __pycache__
 *.pyc
