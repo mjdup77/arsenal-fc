@@ -2,7 +2,7 @@
 
 A data-driven analysis of supporter engagement, matchday patterns, and commercial opportunities at Arsenal Football Club.
 
-**[View the live briefing →](#)** *(deploy URL here)*
+**[View the live briefing →](https://arsenal-supporter-intelligence.vercel.app)**
 
 ---
 

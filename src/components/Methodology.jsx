@@ -116,7 +116,7 @@ export default function Methodology() {
             </p>
             <div className="flex flex-wrap gap-3">
               <a
-                href="https://www.linkedin.com/in/mjduplessis/"
+                href="https://www.linkedin.com/in/michael-john-du-plessis/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white text-sm px-4 py-2 rounded-lg transition-colors"
@@ -125,7 +125,7 @@ export default function Methodology() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com/mjduplessis"
+                href="https://github.com/mjdup77/arsenal-fc"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white text-sm px-4 py-2 rounded-lg transition-colors"
